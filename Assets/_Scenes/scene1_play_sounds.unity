@@ -318,8 +318,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f8933ede6bfb44a69e3e109d321192e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  musicMedieval: {fileID: 854467237}
-  musicArcade: {fileID: 1873565742}
+  clipMedieval: {fileID: 8300000, guid: 18d13eb82b5414671a1133d6574e4c5e, type: 3}
+  clipArcade: {fileID: 8300000, guid: 0a105cccbca6645cd92e9fb3de7dab2d, type: 3}
 --- !u!1 &1873565741
 GameObject:
   m_ObjectHideFlags: 0
